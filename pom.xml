@@ -58,6 +58,7 @@
                             <excludes>
                                 <exclude>%regex[.*integration.*]</exclude>
                             </excludes>
+                            <forkMode>once</forkMode>
                         </configuration>
                     </execution>
                     <execution>
